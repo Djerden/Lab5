@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class TVCommand {
+public class TVCommand implements Command{
+    @Override
+    public void execute() {
+        
+    }
 }
