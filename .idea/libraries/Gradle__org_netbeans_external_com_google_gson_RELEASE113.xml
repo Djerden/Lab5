@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.netbeans.external:com-google-gson:RELEASE113">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.netbeans.external/com-google-gson/RELEASE113/f645ed69d595b24d4cf8b3fbb64cc505bede8829/com-google-gson-RELEASE113.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.netbeans.external/com-google-gson/RELEASE113/92d6c032448be9abc9243f9ecfc7302d2b977a4b/com-google-gson-RELEASE113-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
